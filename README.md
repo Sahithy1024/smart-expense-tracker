@@ -3,6 +3,11 @@
 A full-stack personal finance management application that helps users track income, manage expenses, and understand spending patterns through interactive charts.
 
 Built using **React, FastAPI, PostgreSQL, and SQLAlchemy**.
+## 📸 Application Screenshot
+
+### Dashboard
+
+![Smart Expense Tracker Dashboard](screenshots/dashboard.png)
 
 ## ✨ Features
 
@@ -116,7 +121,6 @@ Create a `.env` file inside `backend` and add:
 DATABASE_URL=postgresql+psycopg2://postgres:YOUR_PASSWORD@localhost:5432/expense_tracker
 ```
 
-Replace `YOUR_PASSWORD` with your PostgreSQL password.
 
 **Never commit your actual `.env` file to GitHub.**
 
