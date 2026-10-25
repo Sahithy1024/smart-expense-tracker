@@ -75,7 +75,7 @@ Install the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/Sahithy1024/smart-expense-tracker>
+git clone https://github.com/Sahithy1024/smart-expense-tracker
 cd smart-expense-tracker
 ```
 
